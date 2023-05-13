@@ -7,6 +7,9 @@ const personas = [
     { nombre: 'Lucía', edad: 35, ciudad: 'Mendoza', sueldo: 75000 }
     ];
 
+
+
+  
 2- A partir del mismo array de personas crear un nuevo array solo con los mayores de 30.
 
 
